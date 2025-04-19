@@ -113,10 +113,9 @@ Issac aims to:
 ## ✨ Screenshots
 
 | Home Screen | Chat Interface | Settings Page |
-
-Home Screen-![Screenshot 2025-04-19 120245](https://github.com/user-attachments/assets/6e69fc91-d024-4954-a71f-3a02cf494b3b)
-Chat Interface -![Screenshot 2025-04-19 120331](https://github.com/user-attachments/assets/ecdb7d1d-e589-486a-a2cc-731b2bc1a3ea)
-Settings Page - ![Screenshot 2025-04-19 120302](https://github.com/user-attachments/assets/e93e4d48-09eb-451d-8cae-fe5c945335e9)
+![Screenshot 2025-04-19 120245](https://github.com/user-attachments/assets/6e69fc91-d024-4954-a71f-3a02cf494b3b)
+![Screenshot 2025-04-19 120331](https://github.com/user-attachments/assets/ecdb7d1d-e589-486a-a2cc-731b2bc1a3ea)
+![Screenshot 2025-04-19 120302](https://github.com/user-attachments/assets/e93e4d48-09eb-451d-8cae-fe5c945335e9)
 
 ---
 
